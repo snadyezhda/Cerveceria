@@ -28,6 +28,11 @@ namespace cerveceria.Controllers
             return View();
         }
 
+        public async Task<IActionResult> Accelerate()
+        {
+            return View("/Shared/PartialViews/_Accelerate");
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

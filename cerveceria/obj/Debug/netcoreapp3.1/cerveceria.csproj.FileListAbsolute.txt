@@ -449,3 +449,4 @@ C:\Users\yinch\source\repos\cerveceria\cerveceria\obj\Debug\netcoreapp3.1\Razor\
 C:\Users\yinch\source\repos\cerveceria\cerveceria\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Details.cshtml.g.cs
 C:\Users\yinch\source\repos\cerveceria\cerveceria\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Edit.cshtml.g.cs
 C:\Users\yinch\source\repos\cerveceria\cerveceria\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Index.cshtml.g.cs
+C:\Users\yinch\source\repos\cerveceria\cerveceria\obj\Debug\netcoreapp3.1\Razor\Views\Shared\PartialViews\_Accelerate.cshtml.g.cs
