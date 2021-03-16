@@ -17,5 +17,7 @@ namespace cerveceria.Data
         public DbSet<cerveceria.Models.Persona> Persona { get; set; }
 
         public DbSet<cerveceria.Models.Productos> Productos { get; set; }
+
+        public DbSet<cerveceria.Models.Registro> Registro { get; set; }
     }
 }

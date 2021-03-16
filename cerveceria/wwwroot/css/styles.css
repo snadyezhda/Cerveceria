@@ -78,6 +78,10 @@ body, p {
 	padding-left: 1.25rem;
 }
 
+.titulosgrandes {
+	font-color="black";
+
+}
 h1 {
 	color: #484a46;
 	font: 700 2.5rem/3rem "Montserrat", sans-serif;
@@ -644,7 +648,7 @@ input[type='checkbox'] {
 .navbar-custom {
 	padding-top: 0.375rem;
 	padding-bottom: 0.375rem;
-	background-color: #113448;
+	background-color: #eeb300;
 	box-shadow: 0 0.0625rem 0.375rem 0 rgba(0, 0, 0, 0.1);
 	font: 600 0.875rem/0.875rem "Open Sans", sans-serif;
 	transition: all 0.2s;

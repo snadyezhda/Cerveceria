@@ -6,6 +6,7 @@
     ///VAlidaciones si email es null o password
     var user = {
         email: email,
+        telefono:
         password: password
     }
 
